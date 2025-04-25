@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(222, 112, 232, 0.837); /* Roxo/rosa suave com alguma transparência */
+    color: rgb(9, 6, 2); /* Marrom escuro */
+    text-align: center;
+  }
+  
+  #timer {
+    font-size: 3em; /* Tamanho da fonte grande */
+    font-weight: bold; /* Texto em negrito */
+    margin-top: 28px; /* Margem superior para espaçamento */
+  }
